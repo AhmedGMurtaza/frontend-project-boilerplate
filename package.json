@@ -1,0 +1,11 @@
+{
+  "name": "project-prototype",
+  "version": "1.0.0",
+  "description": "demo project prototype for all front end development project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Murtaza <ahmed.gmurtaza@hotmail.com> (http://github.com/ahmedgmurtaza)",
+  "license": "MIT"
+}
